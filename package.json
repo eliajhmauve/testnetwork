@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "fabric-contract-api": "^2.5.4",
+    "fabric-shim": "^2.5.4",
+    "fabric-shim-api": "^2.5.4",
+    "fabric-shim-crypto": "^2.2.2"
+  }
+}
